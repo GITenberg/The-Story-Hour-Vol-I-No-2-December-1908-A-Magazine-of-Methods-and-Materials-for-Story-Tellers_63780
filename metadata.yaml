@@ -1,0 +1,33 @@
+_repo: The-Story-Hour-Vol-I-No-2-December-1908-A-Magazine-of-Methods-and-Materials-for-Story-Tellers_63780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Wyche, Richard Thomas
+    alias: Wyche, Richard T.
+    gutenberg_agent_id: '52254'
+    url: http://www.gutenberg.org/2009/agents/52254
+  - agent_name: Ruediger, William Carl
+    birthdate: 1874
+    gutenberg_agent_id: '52258'
+    url: http://www.gutenberg.org/2009/agents/52258
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storytelling -- Periodicals'
+- !lcc 'LB'
+- GITenberg
+title: "The Story Hour, Vol. I, No. 2, December, 1908\r\nA Magazine of Methods and\
+  \ Materials for Story Tellers"
+url: http://www.gutenberg.org/ebooks/63780
